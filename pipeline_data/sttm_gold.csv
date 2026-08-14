@@ -1,0 +1,5 @@
+target_table,source_table,source_column,target_column,transformation,rationale
+silver_sales_products_join,silver_sales,,,join:silver_sales.product_id=silver_products.product_id,Combine sales with product metadata for downstream analysis.
+silver_reviews_flagged,silver_reviews,review_text,quality_issue_flag,"derive:quality_issue_flag=contains_any(review_text, ['defect','broken','poor quality','malfunction'])",Flag reviews that mention quality problems using keyword detection.
+silver_sales_products_reviews_join,silver_sales_products_join,,,join:silver_sales_products_join.product_id=silver_reviews_flagged.product_id,Attach quality issue flags to each sale record.
+gold_product_metrics,silver_sales_products_reviews_join,,,"agg:total_sales=sum(quantity), average_rating=avg(rating), quality_issue_rate=case_when(count(*)>0, sum(quality_issue_flag)/count(*), 0)","Aggregate per product to compute sales totals, average rating, and rate of quality issues while guarding against division by zero."

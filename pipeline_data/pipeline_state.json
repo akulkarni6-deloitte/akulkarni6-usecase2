@@ -1,0 +1,66 @@
+{
+  "business_intent": "Analyze product sales and customer reviews to identify products with a high rate of negative quality-related feedback.",
+  "csv_paths": {
+    "products": "pipeline_data\\raw\\products.csv",
+    "sales": "pipeline_data\\raw\\sales.csv",
+    "reviews": "pipeline_data\\raw\\reviews.csv"
+  },
+  "gates": {
+    "1": {
+      "phase": 1,
+      "name": "Profile & Bronze STTM",
+      "outputs": [
+        "profile.json",
+        "sttm_bronze.csv"
+      ],
+      "approved": true,
+      "approver_note": ""
+    },
+    "2": {
+      "phase": 2,
+      "name": "Bronze Execute & Silver STTM",
+      "outputs": [
+        "*_bronze.parquet",
+        "sttm_silver.csv"
+      ],
+      "approved": true,
+      "approver_note": ""
+    },
+    "3": {
+      "phase": 3,
+      "name": "Silver Execute & Gold STTM",
+      "outputs": [
+        "*_silver.parquet",
+        "sttm_gold.csv"
+      ],
+      "approved": true,
+      "approver_note": ""
+    },
+    "4": {
+      "phase": 4,
+      "name": "Gold Execute & Report",
+      "outputs": [
+        "products_analysis.parquet",
+        "report.html"
+      ],
+      "approved": true,
+      "approver_note": "auto - no gate required"
+    }
+  },
+  "artifacts": {
+    "profile_json": "pipeline_data\\profile.json",
+    "sttm_bronze_csv": "pipeline_data\\sttm_bronze.csv",
+    "bronze_paths_json": "{'products': 'pipeline_data\\\\bronze\\\\products_bronze.parquet', 'sales': 'pipeline_data\\\\bronze\\\\sales_bronze.parquet', 'reviews': 'pipeline_data\\\\bronze\\\\reviews_bronze.parquet'}",
+    "bronze::products": "pipeline_data\\bronze\\products_bronze.parquet",
+    "bronze::sales": "pipeline_data\\bronze\\sales_bronze.parquet",
+    "bronze::reviews": "pipeline_data\\bronze\\reviews_bronze.parquet",
+    "sttm_silver_csv": "pipeline_data\\sttm_silver.csv",
+    "silver::products": "pipeline_data\\silver\\products_silver.parquet",
+    "silver::sales": "pipeline_data\\silver\\sales_silver.parquet",
+    "silver::reviews": "pipeline_data\\silver\\reviews_silver.parquet",
+    "sttm_gold_csv": "pipeline_data\\sttm_gold.csv",
+    "products_analysis_parquet": "pipeline_data\\products_analysis.parquet",
+    "gold_db": "pipeline_data\\gold.db",
+    "report_html": "pipeline_data\\report.html"
+  }
+}

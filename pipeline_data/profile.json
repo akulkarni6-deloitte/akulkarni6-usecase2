@@ -1,0 +1,202 @@
+{
+  "tables": [
+    {
+      "file_name": "products.csv",
+      "row_count": 8,
+      "columns": [
+        {
+          "name": "product_id",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 8,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "P001"
+          ]
+        },
+        {
+          "name": "product_name",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 8,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "Aurora Blender X1"
+          ]
+        },
+        {
+          "name": "category",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 6,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "Kitchen"
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "sales.csv",
+      "row_count": 300,
+      "columns": [
+        {
+          "name": "sale_id",
+          "inferred_dtype": "int64",
+          "null_count": 0,
+          "distinct_count": 300,
+          "min_value": 1.0,
+          "max_value": 300.0,
+          "mean_value": 150.5,
+          "sample_values": [
+            1
+          ]
+        },
+        {
+          "name": "product_id",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 8,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "P006"
+          ]
+        },
+        {
+          "name": "customer_id",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 51,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "C1006"
+          ]
+        },
+        {
+          "name": "sale_date",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 263,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "2024-03-13"
+          ]
+        },
+        {
+          "name": "quantity",
+          "inferred_dtype": "float64",
+          "null_count": 42,
+          "distinct_count": 3,
+          "min_value": 1.0,
+          "max_value": 3.0,
+          "mean_value": 1.6,
+          "sample_values": [
+            1.0
+          ]
+        },
+        {
+          "name": "price_per_item",
+          "inferred_dtype": "float64",
+          "null_count": 0,
+          "distinct_count": 296,
+          "min_value": 11.76,
+          "max_value": 199.35,
+          "mean_value": 105.87,
+          "sample_values": [
+            166.03
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "reviews.csv",
+      "row_count": 220,
+      "columns": [
+        {
+          "name": "review_id",
+          "inferred_dtype": "int64",
+          "null_count": 0,
+          "distinct_count": 220,
+          "min_value": 1.0,
+          "max_value": 220.0,
+          "mean_value": 110.5,
+          "sample_values": [
+            1
+          ]
+        },
+        {
+          "name": "product_id",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 8,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "P002"
+          ]
+        },
+        {
+          "name": "customer_id",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 50,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "C1012"
+          ]
+        },
+        {
+          "name": "rating",
+          "inferred_dtype": "float64",
+          "null_count": 44,
+          "distinct_count": 5,
+          "min_value": 1.0,
+          "max_value": 5.0,
+          "mean_value": 3.21,
+          "sample_values": [
+            3.0
+          ]
+        },
+        {
+          "name": "review_date",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 152,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "2024-03-13"
+          ]
+        },
+        {
+          "name": "review_text",
+          "inferred_dtype": "object",
+          "null_count": 0,
+          "distinct_count": 12,
+          "min_value": null,
+          "max_value": null,
+          "mean_value": null,
+          "sample_values": [
+            "Shipping took forever, item was fine though."
+          ]
+        }
+      ]
+    }
+  ]
+}

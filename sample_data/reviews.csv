@@ -1,0 +1,221 @@
+review_id,product_id,customer_id,rating,review_date,review_text
+1,P002,C1012,3,2024-03-13,"Shipping took forever, item was fine though."
+2,P003,C1035,1,2024-06-28,"Broken after two days of light use, very disappointed."
+3,P004,C1038,4,2024-11-13,Nice design and easy to use.
+4,P005,C1020,5,2024-10-08,"Works great, exactly as described. Very happy with this purchase."
+5,P006,C1028,4,2024-03-12,Nice design and easy to use.
+6,P007,C1002,4,2024-05-12,"Excellent quality and fast shipping, would buy again."
+7,P008,C1003,1,2024-05-26,"Cheaply made, wore out much faster than expected."
+8,P001,C1006,1,2024-03-11,The item arrived damaged and cracked in the box.
+9,P002,C1047,,2024-05-19,"Excellent quality and fast shipping, would buy again."
+10,P003,C1020,5,2024-06-09,"Works great, exactly as described. Very happy with this purchase."
+11,P004,C1024,5,2024-03-15,"Solid build, does the job well."
+12,P005,C1029,2,2024-12-07,"Shipping took forever, item was fine though."
+13,P006,C1004,4,2024-10-28,"Excellent quality and fast shipping, would buy again."
+14,P007,C1006,5,2024-07-27,"Excellent quality and fast shipping, would buy again."
+15,P008,C1021,2,2024-06-27,"Broken after two days of light use, very disappointed."
+16,P001,C1009,2,2024-06-08,"Broken after two days of light use, very disappointed."
+17,P002,C1028,,2024-09-05,"Excellent quality and fast shipping, would buy again."
+18,P003,C1026,5,2024-07-08,"Excellent quality and fast shipping, would buy again."
+19,P004,C1021,3,2024-03-09,"A bit pricey for what you get, but works fine."
+20,P005,C1030,5,2024-02-05,"Solid build, does the job well."
+21,P006,C1050,,2024-11-07,"Works great, exactly as described. Very happy with this purchase."
+22,P007,C1016,4,2024-04-12,"Solid build, does the job well."
+23,P008,C1015,4,2024-02-13,"Solid build, does the job well."
+24,P001,C1046,1,2024-05-05,"Poor quality materials, it fell apart within a week."
+25,P002,C1032,5,2024-06-17,"Works great, exactly as described. Very happy with this purchase."
+26,P003,C1011,2,2024-06-14,"Broken after two days of light use, very disappointed."
+27,P004,C1017,1,2024-10-06,The item arrived damaged and cracked in the box.
+28,P005,C1045,1,2024-03-07,"Poor quality materials, it fell apart within a week."
+29,P006,C1046,,2024-08-25,"Works great, exactly as described. Very happy with this purchase."
+30,P007,C1039,2,2024-11-23,"Shipping took forever, item was fine though."
+31,P008,C1019,,2024-04-01,"Excellent quality and fast shipping, would buy again."
+32,P001,C1046,2,2024-01-17,"Cheaply made, wore out much faster than expected."
+33,P002,C1040,5,2024-08-03,"Solid build, does the job well."
+34,P003,C1042,1,2024-05-08,The item arrived damaged and cracked in the box.
+35,P004,C1010,2,2024-12-12,"A bit pricey for what you get, but works fine."
+36,P005,C1033,5,2024-08-17,"Works great, exactly as described. Very happy with this purchase."
+37,P006,C1020,1,2024-12-28,"Stopped working after a month, seems defective."
+38,P007,C1006,5,2024-12-16,"Works great, exactly as described. Very happy with this purchase."
+39,P008,C1034,,2024-03-01,"Works great, exactly as described. Very happy with this purchase."
+40,P001,C1039,1,2024-03-06,"Broken after two days of light use, very disappointed."
+41,P002,C1001,1,2024-02-23,"Stopped working after a month, seems defective."
+42,P003,C1038,4,2024-11-19,"Solid build, does the job well."
+43,P004,C1028,,2024-02-12,"Excellent quality and fast shipping, would buy again."
+44,P005,C1017,4,2024-02-15,"Excellent quality and fast shipping, would buy again."
+45,P006,C1007,2,2024-02-04,"Cheaply made, wore out much faster than expected."
+46,P007,C1037,,2024-04-28,"Excellent quality and fast shipping, would buy again."
+47,P008,C1047,3,2024-07-06,Customer service was slow to respond to my question.
+48,P001,C1024,,2024-12-14,"Works great, exactly as described. Very happy with this purchase."
+49,P002,C1003,5,2024-06-11,"Works great, exactly as described. Very happy with this purchase."
+50,P003,C1027,,2024-10-26,"Solid build, does the job well."
+51,P004,C1035,5,2024-01-11,"Solid build, does the job well."
+52,P005,C1027,4,2024-11-21,"Solid build, does the job well."
+53,P006,C1004,1,2024-06-14,"Broken after two days of light use, very disappointed."
+54,P007,C1014,2,2024-03-14,Customer service was slow to respond to my question.
+55,P008,C1002,,2024-01-02,Nice design and easy to use.
+56,P001,C1039,,2024-05-21,"Solid build, does the job well."
+57,P002,C1006,,2024-05-04,"Works great, exactly as described. Very happy with this purchase."
+58,P003,C1002,4,2024-05-04,Nice design and easy to use.
+59,P004,C1003,4,2024-10-17,"Excellent quality and fast shipping, would buy again."
+60,P005,C1037,5,2024-09-05,"Works great, exactly as described. Very happy with this purchase."
+61,P006,C1018,1,2024-07-19,"Cheaply made, wore out much faster than expected."
+62,P007,C1047,2,2024-09-10,"Shipping took forever, item was fine though."
+63,P008,C1024,,2024-04-18,"Excellent quality and fast shipping, would buy again."
+64,P001,C1019,,2024-10-16,Nice design and easy to use.
+65,P002,C1015,4,2024-06-08,"Solid build, does the job well."
+66,P003,C1037,3,2024-07-01,Customer service was slow to respond to my question.
+67,P004,C1020,4,2024-09-11,"Excellent quality and fast shipping, would buy again."
+68,P005,C1018,4,2024-01-25,"Solid build, does the job well."
+69,P006,C1038,1,2024-06-15,"Cheaply made, wore out much faster than expected."
+70,P007,C1022,5,2024-12-25,Nice design and easy to use.
+71,P008,C1026,1,2024-06-22,"Poor quality materials, it fell apart within a week."
+72,P001,C1033,2,2024-02-24,"Poor quality materials, it fell apart within a week."
+73,P002,C1050,5,2024-11-23,Nice design and easy to use.
+74,P003,C1006,5,2024-01-14,"Excellent quality and fast shipping, would buy again."
+75,P004,C1025,5,2024-10-05,"Works great, exactly as described. Very happy with this purchase."
+76,P005,C1038,,2024-02-13,"Solid build, does the job well."
+77,P006,C1046,5,2024-06-10,Nice design and easy to use.
+78,P007,C1020,,2024-01-26,Nice design and easy to use.
+79,P008,C1028,5,2024-05-06,Nice design and easy to use.
+80,P001,C1036,2,2024-07-19,"Poor quality materials, it fell apart within a week."
+81,P002,C1038,3,2024-04-11,"A bit pricey for what you get, but works fine."
+82,P003,C1001,2,2024-01-09,"A bit pricey for what you get, but works fine."
+83,P004,C1034,5,2024-05-18,Nice design and easy to use.
+84,P005,C1033,,2024-12-22,Nice design and easy to use.
+85,P006,C1002,2,2024-10-22,The item arrived damaged and cracked in the box.
+86,P007,C1004,,2024-09-08,"Works great, exactly as described. Very happy with this purchase."
+87,P008,C1041,2,2024-09-19,"Stopped working after a month, seems defective."
+88,P001,C1031,2,2024-07-15,"Poor quality materials, it fell apart within a week."
+89,P002,C1033,,2024-12-27,"Solid build, does the job well."
+90,P003,C1023,2,2024-02-27,"Stopped working after a month, seems defective."
+91,P004,C1041,4,2024-05-23,"Excellent quality and fast shipping, would buy again."
+92,P005,C1010,,2024-09-10,Nice design and easy to use.
+93,P006,C1012,,2024-07-06,"Excellent quality and fast shipping, would buy again."
+94,P007,C1022,1,2024-10-21,"Cheaply made, wore out much faster than expected."
+95,P008,C1026,,2024-01-26,"Works great, exactly as described. Very happy with this purchase."
+96,P001,C1019,1,2024-07-27,"Cheaply made, wore out much faster than expected."
+97,P002,C1012,1,2024-03-16,"Broken after two days of light use, very disappointed."
+98,P003,C1034,,2024-09-05,"Solid build, does the job well."
+99,P004,C1007,,2024-03-06,Nice design and easy to use.
+100,P005,C1006,4,2024-02-06,"Works great, exactly as described. Very happy with this purchase."
+101,P006,C1039,5,2024-07-26,Nice design and easy to use.
+102,P007,C1049,,2024-10-11,"Works great, exactly as described. Very happy with this purchase."
+103,P008,C1017,2,2024-03-02,"Poor quality materials, it fell apart within a week."
+104,P001,C1022,1,2024-04-15,"Broken after two days of light use, very disappointed."
+105,P002,C1014,4,2024-07-19,"Works great, exactly as described. Very happy with this purchase."
+106,P003,C1003,5,2024-10-08,"Works great, exactly as described. Very happy with this purchase."
+107,P004,C1037,2,2024-03-11,"Shipping took forever, item was fine though."
+108,P005,C1026,2,2024-10-09,The item arrived damaged and cracked in the box.
+109,P006,C1015,4,2024-11-13,Nice design and easy to use.
+110,P007,C1019,5,2024-07-23,"Excellent quality and fast shipping, would buy again."
+111,P008,C1011,4,2024-03-12,"Excellent quality and fast shipping, would buy again."
+112,P001,C1025,2,2024-09-12,"Broken after two days of light use, very disappointed."
+113,P002,C1021,2,2024-07-21,"Cheaply made, wore out much faster than expected."
+114,P003,C1022,2,2024-09-08,"Broken after two days of light use, very disappointed."
+115,P004,C1022,5,2024-04-14,Nice design and easy to use.
+116,P005,C1009,2,2024-04-23,"Broken after two days of light use, very disappointed."
+117,P006,C1034,2,2024-03-18,"Poor quality materials, it fell apart within a week."
+118,P007,C1023,4,2024-06-07,"Excellent quality and fast shipping, would buy again."
+119,P008,C1037,,2024-04-10,Nice design and easy to use.
+120,P001,C1028,4,2024-11-05,"Excellent quality and fast shipping, would buy again."
+121,P002,C1028,,2024-10-12,"Solid build, does the job well."
+122,P003,C1032,,2024-04-05,Nice design and easy to use.
+123,P004,C1032,,2024-02-18,"Works great, exactly as described. Very happy with this purchase."
+124,P005,C1042,4,2024-12-19,Nice design and easy to use.
+125,P006,C1045,2,2024-02-23,"Broken after two days of light use, very disappointed."
+126,P007,C1012,3,2024-11-04,"Shipping took forever, item was fine though."
+127,P008,C1012,2,2024-02-23,"Stopped working after a month, seems defective."
+128,P001,C1008,2,2024-12-13,"Poor quality materials, it fell apart within a week."
+129,P002,C1049,3,2024-11-21,"A bit pricey for what you get, but works fine."
+130,P003,C1011,5,2024-01-12,"Excellent quality and fast shipping, would buy again."
+131,P004,C1001,5,2024-11-23,"Solid build, does the job well."
+132,P005,C1022,5,2024-11-04,"Excellent quality and fast shipping, would buy again."
+133,P006,C1038,2,2024-12-08,"Broken after two days of light use, very disappointed."
+134,P007,C1002,5,2024-10-06,"Works great, exactly as described. Very happy with this purchase."
+135,P008,C1024,4,2024-12-02,"Solid build, does the job well."
+136,P001,C1014,,2024-10-16,"Excellent quality and fast shipping, would buy again."
+137,P002,C1042,5,2024-11-19,"Solid build, does the job well."
+138,P003,C1048,4,2024-11-10,"Works great, exactly as described. Very happy with this purchase."
+139,P004,C1043,4,2024-02-02,"Works great, exactly as described. Very happy with this purchase."
+140,P005,C1047,5,2024-02-14,"Excellent quality and fast shipping, would buy again."
+141,P006,C1039,,2024-04-09,Nice design and easy to use.
+142,P007,C1028,5,2024-06-23,"Solid build, does the job well."
+143,P008,C1003,,2024-11-23,Nice design and easy to use.
+144,P001,C1031,1,2024-04-02,"Cheaply made, wore out much faster than expected."
+145,P002,C1034,4,2024-03-25,"Solid build, does the job well."
+146,P003,C1003,4,2024-03-12,"Solid build, does the job well."
+147,P004,C1040,4,2024-05-05,"Works great, exactly as described. Very happy with this purchase."
+148,P005,C1015,2,2024-12-08,The item arrived damaged and cracked in the box.
+149,P006,C1041,1,2024-06-23,The item arrived damaged and cracked in the box.
+150,P007,C1037,2,2024-10-08,Customer service was slow to respond to my question.
+151,P008,C1027,,2024-03-22,"Works great, exactly as described. Very happy with this purchase."
+152,P001,C1013,5,2024-02-23,Nice design and easy to use.
+153,P002,C1013,3,2024-01-02,"A bit pricey for what you get, but works fine."
+154,P003,C1007,4,2024-12-10,"Solid build, does the job well."
+155,P004,C1020,4,2024-08-15,"Works great, exactly as described. Very happy with this purchase."
+156,P005,C1035,4,2024-02-02,"Solid build, does the job well."
+157,P006,C1047,1,2024-12-11,The item arrived damaged and cracked in the box.
+158,P007,C1041,4,2024-08-14,"Solid build, does the job well."
+159,P008,C1022,4,2024-02-21,"Solid build, does the job well."
+160,P001,C1041,2,2024-04-03,"Cheaply made, wore out much faster than expected."
+161,P002,C1049,1,2024-07-27,"Broken after two days of light use, very disappointed."
+162,P003,C1040,1,2024-09-28,"Stopped working after a month, seems defective."
+163,P004,C1050,4,2024-12-27,"Excellent quality and fast shipping, would buy again."
+164,P005,C1011,5,2024-11-27,"Solid build, does the job well."
+165,P006,C1008,2,2024-09-12,"Poor quality materials, it fell apart within a week."
+166,P007,C1003,4,2024-01-04,"Solid build, does the job well."
+167,P008,C1013,4,2024-08-14,Nice design and easy to use.
+168,P001,C1038,2,2024-10-21,"Poor quality materials, it fell apart within a week."
+169,P002,C1008,1,2024-08-21,"Poor quality materials, it fell apart within a week."
+170,P003,C1028,4,2024-08-07,"Works great, exactly as described. Very happy with this purchase."
+171,P004,C1002,2,2024-10-28,"A bit pricey for what you get, but works fine."
+172,P005,C1018,4,2024-02-22,Nice design and easy to use.
+173,P006,C1004,2,2024-08-01,The item arrived damaged and cracked in the box.
+174,P007,C1010,,2024-07-10,"Excellent quality and fast shipping, would buy again."
+175,P008,C1036,2,2024-04-16,"Cheaply made, wore out much faster than expected."
+176,P001,C1027,2,2024-09-21,"Stopped working after a month, seems defective."
+177,P002,C1039,,2024-02-26,Nice design and easy to use.
+178,P003,C1042,,2024-05-19,"Solid build, does the job well."
+179,P004,C1042,5,2024-11-05,"Solid build, does the job well."
+180,P005,C1012,2,2024-04-22,"A bit pricey for what you get, but works fine."
+181,P006,C1042,4,2024-10-12,"Works great, exactly as described. Very happy with this purchase."
+182,P007,C1033,5,2024-04-19,Nice design and easy to use.
+183,P008,C1014,4,2024-03-07,"Solid build, does the job well."
+184,P001,C1016,1,2024-11-04,"Broken after two days of light use, very disappointed."
+185,P002,C1045,3,2024-08-08,Customer service was slow to respond to my question.
+186,P003,C1036,,2024-12-04,"Excellent quality and fast shipping, would buy again."
+187,P004,C1043,5,2024-02-26,"Works great, exactly as described. Very happy with this purchase."
+188,P005,C1046,,2024-09-04,"Works great, exactly as described. Very happy with this purchase."
+189,P006,C1012,1,2024-10-16,The item arrived damaged and cracked in the box.
+190,P007,C1049,5,2024-10-02,"Excellent quality and fast shipping, would buy again."
+191,P008,C1002,5,2024-01-23,"Works great, exactly as described. Very happy with this purchase."
+192,P001,C1019,5,2024-02-23,"Excellent quality and fast shipping, would buy again."
+193,P002,C1036,1,2024-02-24,"Broken after two days of light use, very disappointed."
+194,P003,C1047,5,2024-06-26,"Excellent quality and fast shipping, would buy again."
+195,P004,C1007,5,2024-04-12,"Works great, exactly as described. Very happy with this purchase."
+196,P005,C1031,,2024-01-27,"Solid build, does the job well."
+197,P006,C1035,5,2024-06-26,"Works great, exactly as described. Very happy with this purchase."
+198,P007,C1015,,2024-05-12,"Works great, exactly as described. Very happy with this purchase."
+199,P008,C1037,2,2024-08-04,"A bit pricey for what you get, but works fine."
+200,P001,C1004,4,2024-05-06,Nice design and easy to use.
+201,P002,C1009,3,2024-10-09,"A bit pricey for what you get, but works fine."
+202,P003,C1000,5,2024-01-11,"Solid build, does the job well."
+203,P004,C1030,,2024-01-26,Nice design and easy to use.
+204,P005,C1039,4,2024-11-22,"Works great, exactly as described. Very happy with this purchase."
+205,P006,C1044,4,2024-08-13,Nice design and easy to use.
+206,P007,C1023,2,2024-06-17,Customer service was slow to respond to my question.
+207,P008,C1013,2,2024-03-27,"Shipping took forever, item was fine though."
+208,P001,C1036,2,2024-08-13,The item arrived damaged and cracked in the box.
+209,P002,C1021,4,2024-10-16,"Solid build, does the job well."
+210,P003,C1029,4,2024-10-02,"Works great, exactly as described. Very happy with this purchase."
+211,P004,C1024,5,2024-05-03,"Excellent quality and fast shipping, would buy again."
+212,P005,C1036,5,2024-10-17,"Solid build, does the job well."
+213,P006,C1002,,2024-09-25,"Excellent quality and fast shipping, would buy again."
+214,P007,C1040,2,2024-10-21,"Poor quality materials, it fell apart within a week."
+215,P008,C1050,1,2024-03-22,"Stopped working after a month, seems defective."
+216,P001,C1032,2,2024-11-08,"Stopped working after a month, seems defective."
+217,P002,C1003,5,2024-12-11,Nice design and easy to use.
+218,P003,C1023,,2024-04-26,Nice design and easy to use.
+219,P004,C1008,2,2024-04-01,"A bit pricey for what you get, but works fine."
+220,P005,C1028,5,2024-07-19,Nice design and easy to use.

@@ -1,0 +1,7 @@
+target_table,source_table,source_column,target_column,transformation,rationale
+products.csv,products.csv,,,dedupe,
+sales.csv,sales.csv,,,fillna:mean,
+sales.csv,sales.csv,,,cast:date,
+sales.csv,sales.csv,,,cast:int,
+sales.csv,sales.csv,,,dedupe,
+sales.csv,sales.csv,,,derive:surrogate_key,

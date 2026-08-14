@@ -1,0 +1,4 @@
+target_table,source_table,source_column,target_column,transformation,rationale
+products,products.csv,,source_file,add_column:source_file,
+sales,sales.csv,,source_file,add_column:source_file,
+reviews,reviews.csv,,source_file,add_column:source_file,
